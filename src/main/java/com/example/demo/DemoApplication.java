@@ -7,8 +7,8 @@ import org.springframework.boot.autoconfigure.SpringBootApplication;
 public class DemoApplication {
 
     public static void main(String[] args) {
-
-        System.out.println("luongtheanh96");
+int a =96;
+        System.out.println(a);
         SpringApplication.run(DemoApplication.class, args);
     }
 
